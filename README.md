@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm <span style="color:red; font-weight:bold">Pranay Kallepu</span></h1>
-<h3 align="center">A passionate MERN-Stack developer with AI Integration</h3>
+<h3 align="center">A passionate Software developer with AI Integration</h3>
 
 <img align="right" alt="Coding" width="300" height="300" style="border-radius: 50%"
 src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" />
@@ -16,9 +16,9 @@ src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb6407
   </a>
 </p>
 
-- 🔭 I’m currently working on **JobQuest Project**
+- 🔭 I’m currently looking for jobs **Full stack Developer / SDE**
 - 🌱 I’m currently learning **DSA with C++ & Python**
-- 👨‍💻 All of my projects are available at: [**My Portfolio**](https://my-portfolio-zeta-peach-95.vercel.app/)
+- 👨‍💻 All of my projects are available at: [**My Portfolio**](https://pranay-portfolio-pi.vercel.app/)
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN**
 - 📫 Reach me at **pranaykallepu05@gmail.com**
 - 📄 Know more: [**Resume**](https://drive.google.com/file/d/1yDWqSLYZyYeqH4dtEybdzaaZ6K3old7W/view?usp=drive_link)
