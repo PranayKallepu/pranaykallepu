@@ -21,7 +21,7 @@ src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb6407
 - 👨‍💻 All of my projects are available at: [**My Portfolio**](https://my-portfolio-zeta-peach-95.vercel.app/)
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN**
 - 📫 Reach me at **pranaykallepu05@gmail.com**
-- 📄 Know more: [**Resume**](https://drive.google.com/file/d/1bL5Ub2yZXN1vxd6mtPC-isM6tF-4LaRG/view?usp=sharing)
+- 📄 Know more: [**Resume**](https://drive.google.com/file/d/1yDWqSLYZyYeqH4dtEybdzaaZ6K3old7W/view?usp=drive_link)
 
 ### Connect with me
 
