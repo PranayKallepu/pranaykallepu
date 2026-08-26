@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software developer with AI Integration</h3>
 
 <img align="right" alt="Coding" width="300" height="300" style="border-radius: 50%"
-src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" />
+ src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" /> 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pranaykallepu&label=Profile%20views&color=0e75b6&style=flat" alt="pranaykallepu" />
@@ -17,20 +17,17 @@ src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb6407
 </p>
 
 - 🔭 I’m currently looking for jobs **Full stack Developer / SDE**
-- 🌱 I’m currently learning **DSA with C++ & Python**
+- 🌱 I’m currently learning **AI Specilazation**
 - 👨‍💻 All of my projects are available at: [**My Portfolio**](https://pranay-portfolio-pi.vercel.app/)
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN**
 - 📫 Reach me at **pranaykallepu05@gmail.com**
-- 📄 Know more: [**Resume**](https://drive.google.com/file/d/1yDWqSLYZyYeqH4dtEybdzaaZ6K3old7W/view?usp=drive_link)
+- 📄 Know more: [**Resume**](https://drive.google.com/file/d/1TvuVV9U1iRcbz6So1u3Kg0szWAcKfPDG/view?usp=sharing)
 
 ### Connect with me
 
 <p align="left">
     <a href="https://linkedin.com/in/pranaykallepu" target="blank">
     <img align="center" width="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="padding-right:10px"  width="25" />
-  </a>
-  <a href="https://twitter.com/pranaykallepu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter"  width="25" style="padding-right:10px"  />
   </a>
   <a href="https://www.leetcode.com/pranaykallepu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode"width="25" />
